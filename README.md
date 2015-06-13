@@ -1,3 +1,6 @@
+## This is a forked version of jsdom at the point before it added io.js as a dependency.
+### It contains bug fixes for the node.js only version
+
 # jsdom
 
 A JavaScript implementation of the WHATWG DOM and HTML standards.
